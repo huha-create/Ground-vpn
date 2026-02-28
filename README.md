@@ -1,7 +1,7 @@
 #profile-title: 🍏 [BETA] ADAM VPN 🍏
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=1073741824000; expire=0
-#support-url: https://t.me/твой_логин
+#support-url: https://wa.me/message/73535VWT7WSJI1
 #profile-subscription-url: https://raw.githubusercontent.com/huha-create/Ground-vpn/main/README.md
 vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast263.visi.rip:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gazprom.hutsharing.com&sid=fd#%231%20%F0%9F%94%91%20%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9
 vless://e3864be5-4667-4e66-a4fa-9ef241c83593@fast253.visi.rip:443?security=reality&encryption=none&pbk=pAM88jLm7lCwGSl9VdizATHzdzlJRwuTlcDyhrfHL2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telemost.yandex.ru&sid=fd#%232%20%F0%9F%94%91%20%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9
