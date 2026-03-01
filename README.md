@@ -18,7 +18,7 @@
 
 #profile-test-interval: 300
 
-#profile-auto-switch: true
+profile-auto-switch: true
 
 #profile-allow-copy: false
 
